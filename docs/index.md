@@ -12,7 +12,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<!-- shttps://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
@@ -24,7 +24,7 @@ __LDS Business College__, Salt Lake City, UT
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.0 Major GPA
 
 
 ## Related Experience
