@@ -1,8 +1,23 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+title: Noah Weston's Resume
+format:
+  html:
+    self-contained: true
+    page-layout: full
+    number-sections: false
+    html-math-method: katex
+    code-fold: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+    code-copy: hover
+    code-tools:
+        source: false
+        toggle: true
+        caption: See code
+execute: 
+  warning: false
 ---
-# Brigham Young
+# Noah Weston
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -12,7 +27,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- shttps://www.monique.tech/the-art-of-markdown -->
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
