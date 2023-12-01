@@ -18,12 +18,12 @@ execute:
   warning: false
 ---
 # Noah Weston
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+A little bit of salt is second to the same thing
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="noahweston696@gmail.com">noahweston696@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="www.linkedin.com/in/noah-weston-360403153">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -31,74 +31,43 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2011 - 2015`
+__Skyview High School__, Vancouver, WA
 
-- Full academic scholarship with 4.0 GPA
+- Involved in the SCience, Math, and Technology program 
+- Involved with student leadership positions in clubs 
+- Accepted into National Honour Society.
 
-`Expected 2029`
+`2017 - Current`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.0 Major GPA
+- Currently studying Data Science.
 
+## Achievements
+
+`Eagle Scout` Vancouver, WA
+Awarded November 2014
 
 ## Related Experience
 
-### Internships
+`August 2015 - August 2017`
+__Volunteer Missionary__, Philadelphia, PA
+- Worked with people from various backgrounds
+- Last 3 months assigned to office where I gained skills sorting files and organizing data to be presented to church leadership
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Winter 2023`
+__CSE 111 TA__, Rexburg, ID
+- Helped teach students to use functions in python
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`February 2023 - Current`
+__Facilites Services Student Coordinator__, Rexburg, ID
+- Direct employees to know what to do
+- Train new employees
+- Make sure everything runs smoothly
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
 
 
